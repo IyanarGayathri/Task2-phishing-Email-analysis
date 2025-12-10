@@ -1,0 +1,17 @@
+From:support@paypal-security.com
+To:gayathriiyanar19@gmail.com
+Subject: Urgent: Your PayPal Account Will Be Limited in 24 Hours!
+
+Dear Customer,
+
+We noticed unusual login attempts on your PayPal account.  
+Your account will be permanently suspended within 24 hours unless you verify your identity.
+
+Please click the link below to restore access to your account:
+
+https://paypal.com.verify-user-secure-login.net
+
+Failure to act will result in permanent closure of your account.
+
+Thank you,  
+PayPal Security Team

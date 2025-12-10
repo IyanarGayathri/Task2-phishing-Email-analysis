@@ -1,0 +1,41 @@
+MIME-Version: 1.0
+Date: Wed, 10 Dec 2025 12:31:16 +0530
+Message-ID: <CAGsczWXYThOm704nnwAw9Stq9k-pprOPbW0GniDN1fg+s4ms+Q@mail.gmail.com>
+Subject: Urgent: Your PayPal Account Will Be Limited in 24 Hours!
+From: "Gayathri Iyyanar.19" <gayathriiyyanar19@gmail.com>
+To: "Gayathri Iyyanar.19" <gayathriiyyanar19@gmail.com>
+Content-Type: multipart/alternative; boundary="0000000000007b49190645939b40"
+
+--0000000000007b49190645939b40
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We noticed unusual login attempts on your PayPal account.
+Your account will be permanently suspended within 24 hours unless you
+verify your identity.
+
+Please click the link below to restore access to your account:
+
+https://paypal.com.verify-user-secure-login.net
+
+Failure to act will result in permanent closure of your account.
+
+Thank you,
+PayPal Security Team
+
+--0000000000007b49190645939b40
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div dir=3D"ltr">Dear Customer,<br><br>We noticed unusual =
+login attempts on your PayPal account. =C2=A0<br>Your account will be perma=
+nently suspended within 24 hours unless you verify your identity.<br><br>Pl=
+ease click the link below to restore access to your account:<br><br><a href=
+=3D"https://paypal.com.verify-user-secure-login.net" target=3D"_blank">http=
+s://paypal.com.verify-user-secure-login.net</a><br><br>Failure to act will =
+result in permanent closure of your account.<br><br>Thank you, =C2=A0<br>Pa=
+yPal Security Team<br></div>
+</div>
+
+--0000000000007b49190645939b40--
